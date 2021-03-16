@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sabarnna1
+- 👋 Hi, I’m Sabarnna Sen
 - 👀 I’m interested in data analysis , data science and statistics.
 - 🌱 I’m currently learning statisics and data science
 - 💞️ I’m looking to collaborate on machine learning and data science projects

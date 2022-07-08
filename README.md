@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sabarnna Sen from Jadavpur University UG-III
+- 👋 Hi, I’m Sabarnna Sen from Jadavpur University UG-IV
 - 👀 I’m interested in data analysis , data science and statistics.
-- 🌱 I’m currently learning statisics and data science
+- 🌱 I’m currently learning statisics and business analytics
 - 💞️ I’m looking to collaborate on machine learning and data science projects
 - 📫 Reach me at sabarnna130gmail.com 
 
